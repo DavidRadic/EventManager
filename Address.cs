@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment5
+namespace EventManager
 {
     internal class Address
     {

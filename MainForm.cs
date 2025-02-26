@@ -1,6 +1,6 @@
 using System;
 
-namespace Assignment5
+namespace EventManager
 {
     public partial class MainForm : Form
     {

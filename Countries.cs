@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment5
+namespace EventManager
 {
     /// <summary>
     ///The countries of the world.
